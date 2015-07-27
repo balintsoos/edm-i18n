@@ -1,0 +1,12 @@
+{
+  "name": "edm-i18n",
+  "version": "0.1.0",
+  "description": "internationalization and localization (i18n) app for EDM Designer",
+  "main": "app.js",
+  "author": "Balint Soos",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1"
+  }
+}
